@@ -1,3 +1,12 @@
 2025-02-03 00:34:20.280284 - Added - Role: full-time, Name: john, ID: 1111
 2025-02-03 00:38:05.219365 - Added - Role: full-time, Name: James, ID: 2222
 2025-02-03 00:41:02.870622 - Added - Role: full-time, Name: Erin, ID: 1112
+2025-02-03 00:51:07.831884 - Added - Role: full-time, Name: Aaron Smith, ID: 0999
+2025-02-03 00:55:58.677377 - Added - Role: full-time, Name: John Miller, ID: 0889
+2025-02-03 01:11:20.530689 - Added - Role: part-time, Name: rick, ID: 0087
+2025-02-03 01:12:35.082834 - Added - Role: part-time, Name: josh, ID: 0086
+2025-02-03 01:13:22.656361 - Added - Role: full-time, Name: Sarah, ID: 0076
+2025-02-03 01:17:49.685979 - Added - Role: part-time, Name: Sam, ID: 00776
+2025-02-03 01:18:16.135784 - Updated - Role: part-time, Name: Sam, ID: 00776
+2025-02-03 01:18:49.256075 - Added - Role: full-time, Name: Jason, ID: 0065
+2025-02-03 01:18:59.581970 - Updated - Role: full-time, Name: Jason, ID: 0065
